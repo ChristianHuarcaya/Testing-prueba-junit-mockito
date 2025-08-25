@@ -1,4 +1,4 @@
-# 🧑‍💼 Sistema de Gestión de Empleados
+ Sistema de Gestión de Empleados
 
 Este proyecto es una aplicación backend desarrollada con Spring Boot que permite gestionar empleados con autenticación y control básico. Se centra en Java, pruebas con JUnit 5, Mockito y persistencia en H2 en memoria.
 
